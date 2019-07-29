@@ -1,0 +1,19 @@
+{
+  "name": "evercookie-front",
+  "version": "1.0.0",
+  "description": "The same evercookie lib but with a proper package.json so it can be consume from an ES6 project.",
+  "main": "./js/evercookie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirumpi/evercookie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirumpi/evercookie/issues"
+  },
+  "homepage": "https://github.com/pirumpi/evercookie#readme"
+}
